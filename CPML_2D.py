@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+@author: V_King
+"""
 import numpy as np
 import pandas as pd
 import math
