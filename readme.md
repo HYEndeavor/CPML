@@ -5,7 +5,7 @@ Hint：其中CPML_1D.py文件运行之后会在当前路径创建一个excel文�
 
 python和pycharm安装要求：
 对于windows用户：
-1 安装python，新手可参考https://www.py.cn/faq/python/12458.html，这里我们选择python3.8及之后的版本。
-2 安装pycharm，可参考https://www.runoob.com/w3cnote/pycharm-windows-install.html，如果已经按照第一步安装了python，则只需要参考其中的第1，2，3，8，9步安装朋友charm社区版即可，
+1 安装python，新手可参考https://www.py.cn/faq/python/12458.html, 这里我们选择python3.8及之后的版本。
+2 安装pycharm，可参考https://www.runoob.com/w3cnote/pycharm-windows-install.html, 如果已经按照第一步安装了python，则只需要参考其中的第1，2，3，8，9步安装pycharm社区版即可，
 其中的location项中给出的路径即为工程路径(教程中为E:\python_pycharm\vene)，之后将github上下载的CPML文件放到该路径下，之后打开朋友charm便可在左边的project下看到我们下载保存的
 文件或者代码(如果project没有被展开，请单击之后，再单击project之前的小箭头)，双击CPML_2D(CPML_1D)，之后使用Ctrl+Shift+F10运行。
